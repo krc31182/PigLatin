@@ -1,2 +1,1 @@
-# PigLatin
-ProgrammingPiglatinTranslator
+# English to Pig Latin Translator Program
